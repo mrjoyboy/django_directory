@@ -25,7 +25,7 @@ SECRET_KEY = 'q9o9289gq)!iql$cnwf2((w#t5@ixn*)-tqd!+*+patzs#qq2a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
